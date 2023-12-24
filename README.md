@@ -30,20 +30,24 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss5](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/9622c852-f4d9-4660-a160-e1f07cd47afc)
 
+### Connecting to the Windows Virtual Machine
 ![ss6](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/e4420fe6-1d22-4635-a613-6323e7dfda04)
 
-![ss7](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/0a334bca-e697-4fb0-b2f8-ac4eb7bd8fa1)
 
+### Installing SQL Server and SSMS
 ![ss8](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/a8a3df05-53b2-484a-87bc-d1aa26b11fb6)
 
 ![ss9](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/edb126c0-3588-4f81-bdc7-d5dde55e5414)
 
 ![ss10](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/d2663ae0-09a8-48fa-a5fc-5a3bf11b0431)
 
+### Restoring the Production database
 ![ss11](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/85274f3d-3654-4f13-b055-fe525ab87067)
 
 ![ss12](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/ddec7e71-087e-46e8-a22a-3d77a5f10968)
 
+## Milestone 3 - Migrating to Azure SQL Database
+### Setting up the Azure SQL Database
 ![ss13](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/80167698-75c9-4731-9efc-c382b71f8c96)
 
 ![ss14](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/c0731d4e-0191-4687-abdc-a20511ff3fa2)
@@ -60,8 +64,11 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss20](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/3670f0fc-a431-49bc-babf-0d6f15fe4bb8)
 
+### Preparing for Migration
+
 ![ss21](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/d66a1bba-f702-44a0-9b80-6a374ded10c6)
 
+#### Connecting to Azure SQL Database
 ![ss22](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/bddaa50d-cd7d-4898-b2cc-ead45cf96848)
 
 ![ss23](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/54d804b6-2caa-4e28-b2da-8005f443c7cd)
@@ -74,12 +81,14 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss27](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/57616810-e677-4358-9e71-ee503b79f0ff)
 
+#### Schema comparing the two databases
 ![ss28](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/c0d5538f-7655-4306-8941-840faa8e1fa8)
 
 ![ss29](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/5a324c7d-3dcd-4191-b253-bcecf669b51c)
 
 ![ss30](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/e12b834f-e4dd-4a66-a6c2-205e3274b0a1)
 
+#### Data migrating the on premise database to the cloud database
 ![ss31](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/d443bc4c-acf5-472d-87ab-a8bf8efab432)
 
 ![ss32](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/8c7167f6-c3a0-47b2-b52a-10f6d4097672)
@@ -98,21 +107,20 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss39](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/93022b9b-96d3-47a6-98f1-856fa6dcc89c)
 
+## Milestone 4 - Data Backup and Restore
+### Backing up the On-Premise Database
 ![ss40](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/991b389f-7de3-4e2d-8cc1-6c425e068775)
 
 ![ss41](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/d5f0c3e5-8e4a-47bf-bbb4-60f7c9dfa54d)
 
 ![ss42](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/cfe0c897-8624-4bde-8414-9f7bd1b2e799)
 
+### Create a Storage account to upload the backup
 ![ss43](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/0ca4be86-16b3-475d-8326-917d54208e64)
 
 ![ss44](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/cff0c08b-9b39-40aa-8f6f-fdac405f2616)
 
 ![ss45](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/8e534965-2e92-4c79-b63b-183fb4177585)
-
-![ss46](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/68e14b95-24e4-4099-a55a-87a26ea4cb20)
-
-![ss47](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/02b6d741-fa96-4b83-8af7-724edd25db68)
 
 ![ss48](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/31bc6f2a-1e95-4e66-8a05-468b8472abd2)
 
@@ -122,6 +130,7 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss51](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/8d9b4201-37ab-46c5-b1b5-9c8d98870e00)
 
+### Restoring the Database on a Development Environment (Sandbox VM)
 ![ss52](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/52f239c6-b771-4380-ad87-43aa306a8208)
 
 ![ss53](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/688e674a-a27e-4498-b33d-730b4994e92b)
@@ -140,6 +149,7 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss60](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/57076994-895f-4764-b056-6ec891920af5)
 
+### Automating Backups for the Development Database
 ![ss61](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/3f227a4c-0c4e-43f4-935f-a1acf488981c)
 
 ![ss62](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/4d30afa1-a4e0-4385-8fac-2c9a7a4ef5f1)
@@ -154,12 +164,15 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss67](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/ff74b29b-dcd0-4d0e-9681-15eb2ccc533d)
 
+## Milestone 5 - Disaster Recovery Simulation
+### Mimicing Data Loss in the Production Environment
 ![ss68](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/35b20820-d3e4-45bb-8142-64193a5dd5dd)
 
 ![ss69](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/b874504f-f269-4f72-962f-d42292e8e634)
 
 ![ss70](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/5afa004c-7155-4f39-9cd7-c3bd9398ad46)
 
+### Restoring the Database from Azure SQL Database Backup
 ![ss71](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/3a3b9bc7-d680-4c46-a63e-cfc811aa0d90)
 
 ![ss72](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/d3d66d68-4357-4a8d-abb5-5fa7d0d76ed4)
@@ -168,6 +181,8 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss74](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/6432682d-3f5e-484a-8619-6f6c1e795090)
 
+## Milestone 6 - Geo Replication and Failover
+### Setting up Geo-Replication for Azure SQL Database
 ![ss75](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/14eb04ef-2f46-4baa-ab75-332ca4c4ed3d)
 
 ![ss76](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/3d42ba77-858f-469f-bf96-2c6ddbdf93bf)
@@ -180,6 +195,7 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss80](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/d74939c1-97f1-4453-8cc6-02c021e5be4e)
 
+### Testing Failover and Failback
 ![ss81](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/ed796c98-87f9-4c42-bb4f-dc2dafe2b346)
 
 ![ss82](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/c6f93071-a501-4ddb-833a-64268de9c505)
@@ -188,6 +204,8 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss84](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/032bd542-ace5-43dd-a020-9d5cd3278398)
 
+## Milestone 7 - Microsoft Entra Directory Integration
+### Configuring Microsoft Entra ID for Azure SQL Database
 ![ss85](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/9a537ba1-b66f-4bac-9c29-e009a51105d4)
 
 ![ss86](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/2de29e62-e698-4ec2-8377-bd823486c7fb)
@@ -200,6 +218,7 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ![ss90](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/f67ba533-dcaf-44aa-8d0d-5c5d9bcac607)
 
+### Creating DB Reader User
 ![ss91](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/81993658-5c9b-48dc-ad53-44ddfd31c81e)
 
 ![ss92](https://github.com/mvnsib/Azure-Database-Migration/assets/60615362/90ee2ae8-5443-414f-80b7-00afcb803572)
