@@ -20,4 +20,4 @@ This project will demonstrate the expertise by architecting and implementing a s
 
 ### Provisioning a Windows VM
 
-[ss]("C:\Users\mvnsi\Desktop\db project\ss1.png")
+![ss]("C:\Users\mvnsi\Desktop\db project\ss1.png")
