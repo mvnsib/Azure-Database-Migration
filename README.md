@@ -5,12 +5,12 @@
 - Project Title
 - Table of Contents
 - Description
-- Milestone 2
-- Milestone 3
-- Milestone 4
-- Milestone 5
-- Milestone 6
-- Milestone 7
+- Milestone 2 - Setting up the Production environment
+- Milestone 3 - Migrating to Azure SQL Database
+- Milestone 4 - Data Backup and Restore
+- Milestone 5 - Disaster Recovery Simulation
+- Milestone 6 - Geo Replication and Failover
+- Milestone 7 - Microsoft Entra Directory Integration
 
 ## Description
 
